@@ -5,13 +5,9 @@ Frontend aplikasi **Enterprise Resource Planning (ERP)** berbasis web yang diban
 ---
 
 ## Demo
+https://github.com/user-attachments/assets/d632cc4e-14ee-4aa2-b994-2d704eb3f12a
 
-https://github.com/user-attachments/assets/GANTI-DENGAN-URL-VIDEO-DARI-GITHUB
 
-> **Cara upload video ke GitHub:**
-> 1. Buka halaman repositori di GitHub
-> 2. Edit file `README.md` — klik tombol **Edit** (ikon pensil)
-> 3. Drag & drop file `ERP Demos.mp4` ke area teks editor
 > 4. GitHub akan mengupload dan mengganti teks di atas dengan URL asli secara otomatis
 > 5. Commit perubahan — video akan ter-embed langsung di README
 
